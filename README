@@ -1,0 +1,8 @@
+This repo contains my solutions to classic problems of basic algorithms,such as hanio,merge sort,quick sort in divide and conquer algorithm. Problems are organized with folders. 
+
+This repo is still updating.
+
+*************Directory Structure*****************
+├DivideAndConquer/
+├Greedy/
+└README
