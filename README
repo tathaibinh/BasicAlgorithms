@@ -1,3 +1,7 @@
+这个repo收集了所有我能找到的经典算法的题目，并对这些题目进行了实现。涉及的算法目前包括分治算法、贪心算法、动态规划。不同的算法题目分布在不同的文件夹下面。
+
+这个项目仍在更新中。
+
 This repo contains my solutions to classic problems of basic algorithms,such as hanio,merge sort,quick sort in divide and conquer algorithm. Problems are organized with folders. 
 
 This repo is still updating.
